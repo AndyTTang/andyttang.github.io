@@ -13,3 +13,6 @@ Additional learning along the way may include:
 
 
 As a reference, all learnings will be coming from w3schools.com
+
+Credits:
+orderedlist(https://github.com/orderedlist) - for allowing me to start with a built in theme.
