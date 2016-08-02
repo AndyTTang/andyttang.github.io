@@ -1,4 +1,4 @@
-# andyttang.github.io
+# [andyttang.github.io](andyttang.github.io)
 My personal website that hosts my portfolio and projects.
 
 ## Purpose
