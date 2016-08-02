@@ -1,4 +1,4 @@
-# andyttang.github.io
+# [Andy Tang's Portfolio](andyttang.github.io)
 Website that hosts my portfolio and projects.
 
 ## Purpose
@@ -6,14 +6,17 @@ Website that hosts my portfolio and projects.
 This is more of a personal project that I will use as a self reference on web development.
 There will be many extraneous comments.
 
-The goal of this project is to create a decent website while learning HTML, CSS, and Javascript.
+The goal of this project is to create a decent personal website and to improve on full stack or web development
 
 ### Features
 
-Additional learning along the way may include:
-- Bootstrap
-- JQuery
-- AngularJS
+Additional learnings include:
+* HTML
+* CSS
+* Javascript
+* Bootstrap
+* JQuery
+* AngularJS
 
 
 #### Credits
