@@ -1,5 +1,5 @@
-# [Andy Tang's Portfolio](andyttang.github.io)
-Website that hosts my portfolio and projects.
+# Andy Tang
+My [personal website](andyttang.github.io) that hosts my portfolio and projects.
 
 ## Purpose
 
