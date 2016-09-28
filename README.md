@@ -5,7 +5,7 @@ Link:  andyttang.github.io
 
 ## Purpose
 This is more of a personal project that I will use as a self reference on web development.
-The goal of this project is to create a decent personal website and to improve on full stack or web development
+The goal of this project is to create a personal website and to improve on full stack or web development.
 
 ### Features
 Additional learnings include:
@@ -16,6 +16,8 @@ Additional learnings include:
 * JQuery
 * AngularJS
 
+### Key Reminders
+* Custom Logo & Tagline
 
 #### Credits
 * As a reference, all learnings will be coming from [w3schools](w3schools.com)
