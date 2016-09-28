@@ -18,6 +18,25 @@ Additional learnings include:
 
 ### Key Reminders
 * Custom Logo & Tagline
+* Relevant Skills
+* Education & Certificate
+* ANY PREVIOUS JOBS THAT HAVE SOME TRANSFERABLE EXPERIENCE
+* Resume
+* Photo
+* Biography
+* Contact Information
+* Social Media
+* Specialties
+* Projects
+* Volunteer
+* Testimonials
+* Awards
+* Blog
+* Videos
+* Work Processes
+* Own Icon/Patterns/Font
+* Cheat Sheets
+* Call to action:  Hire Me
 
 #### Credits
 * As a reference, all learnings will be coming from [w3schools](w3schools.com)
